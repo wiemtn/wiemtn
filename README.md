@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**wiemtn/wiemtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# 🌟 Welcome to Wiem Zakraoui's GitHub Galaxy! 🌟
+# 🌟 Welcome to Wiem Zakraoui's GitHub Galaxy! 🌟
 
 Hey, tech explorers! I'm **Wiem Zakraoui**, a Data Science enthusiast and AI wizard in the making, blending code and creativity to solve real-world challenges. My GitHub is your portal to cutting-edge projects in machine learning, computer vision, and web development. Let’s dive into the magic of tech together!
 
@@ -37,7 +26,3 @@ Got a wild idea or want to collaborate? Drop me a line via GitHub Issues or star
 
 *Last updated: October 2025*  
 *Follow my GitHub for more game-changing projects!*
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
