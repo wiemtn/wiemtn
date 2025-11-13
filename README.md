@@ -4,11 +4,11 @@ Hello, innovators! I'm Wiem Zakraoui, a Data Science and AI enthusiast dedicated
 
 ## 🚀 Featured Projects
 
-- **[NewsBot IA – LLM-Powered News Analysis](#)**  
+- **[NewsBot IA – LLM-Powered News Analysis](https://github.com/wiemtn/NewsBotIA.git)**  
   A Python-based AI assistant for journalists, leveraging **LLMs** to detect breaking news, summarize articles, and flag risk-related content (e.g., fraud, sanctions). Built with **Hugging Face**, **BeautifulSoup**, **Scrapy**, and **FastAPI**, deployed with **Docker** and **ELK** for real-time alerts. Implemented safety layers for **prompt injection prevention** and **hallucination control**.  
   *Why it matters*: Delivers fast, trustworthy insights for high-stakes environments, aligning with compliance needs.
 
-- **[RGAA VS Code Extension – LLM-Driven Accessibility Audits](#)**  
+- **[RGAA VS Code Extension – LLM-Driven Accessibility Audits](https://github.com/wiemtn/Rgaa.git)**  
   Developed a **VS Code extension** powered by an **LLM** to automate RGAA accessibility audits for web content, detecting **50+ anomalies** with advanced **prompt engineering**. Integrated via **FastAPI** and deployed in a **CI/CD pipeline** using **Docker**, **Jenkins**, and **Grafana** in an Agile Scrum environment.  
   *Why it matters*: Enhances digital accessibility with efficient, scalable AI automation.
 
