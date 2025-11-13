@@ -1,28 +1,48 @@
-# 🌟 Welcome to Wiem Zakraoui's GitHub Galaxy! 🌟
+# 🌌 Welcome to Wiem Zakraoui's GitHub Universe! 🌌
 
-Hey, tech explorers! I'm **Wiem Zakraoui**, a Data Science enthusiast and AI wizard in the making, blending code and creativity to solve real-world challenges. My GitHub is your portal to cutting-edge projects in machine learning, computer vision, and web development. Let’s dive into the magic of tech together!
+Hello, innovators! I'm Wiem Zakraoui, a Data Science and AI enthusiast dedicated to building intelligent, safe, and impactful solutions. My GitHub is a hub for projects in **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **MLOps**, and **AI-driven automation**, designed to solve real-world challenges. Ready to explore? Let’s code the future together!
 
-## 🚀 My Stellar Projects
+## 🚀 Featured Projects
 
-### 📚 [bookstore](https://github.com/wiemtn/bookstore)
-Dream of running a virtual bookstore? This **JavaScript** masterpiece lets you manage book catalogs and create a seamless user experience. Browse, contribute, or add your favorite titles to the collection!
+- **[NewsBot IA – LLM-Powered News Analysis](#)**  
+  A Python-based AI assistant for journalists, leveraging **LLMs** to detect breaking news, summarize articles, and flag risk-related content (e.g., fraud, sanctions). Built with **Hugging Face**, **BeautifulSoup**, **Scrapy**, and **FastAPI**, deployed with **Docker** and **ELK** for real-time alerts. Implemented safety layers for **prompt injection prevention** and **hallucination control**.  
+  *Why it matters*: Delivers fast, trustworthy insights for high-stakes environments, aligning with compliance needs.
 
-### 🌱 [Agriculture_Chatbot](https://github.com/wiemtn/Agriculture_Chatbot)
-Farming just got smarter! This **Python** chatbot is your agricultural sidekick, answering queries on crops, soil, and more. Ready to plant some knowledge? Dig in!
+- **[RGAA VS Code Extension – LLM-Driven Accessibility Audits](#)**  
+  Developed a **VS Code extension** powered by an **LLM** to automate RGAA accessibility audits for web content, detecting **50+ anomalies** with advanced **prompt engineering**. Integrated via **FastAPI** and deployed in a **CI/CD pipeline** using **Docker**, **Jenkins**, and **Grafana** in an Agile Scrum environment.  
+  *Why it matters*: Enhances digital accessibility with efficient, scalable AI automation.
 
-### 🎙️ [Enhanced-Emotional-Speech-Data-Generation](https://github.com/wiemtn/Enhanced-Emotional-Speech-Data-Generation)
-Give AI a voice with soul! This **Jupyter Notebook** project crafts emotional speech data for next-level audio applications. Perfect for building expressive voice assistants. Join the vibe!
+- **[Automated MLOps Pipeline for Model Deployment](#)**  
+  An end-to-end **MLOps** pipeline using **MLflow**, **Jenkins**, and **Docker** to automate NLP model training, versioning, and deployment. Reduced deployment time by **80%** with continuous monitoring via **Prometheus**.  
+  *Why it matters*: Streamlines AI workflows for reliable, production-ready solutions.
 
-### 🧠 [Deep-Learning-for-Brain-Tumor-Detection-in-MRI-Scans](https://github.com/wiemtn/Deep-Learning-for-Brain-Tumor-Detection-in-MRI-Scans)
-AI with a purpose! This **Jupyter Notebook** project uses deep learning to detect brain tumors in MRI scans, pushing the frontiers of medical imaging. Want to make an impact? Start here!
+- **[Deep Learning for Brain MRI Classification](#)**  
+  A deep learning project using **ResNet50** to classify brain tumors from MRI scans, achieving **98.2% accuracy**. Built with **PyTorch** and integrated text-based reporting for medical insights.  
+  *Why it matters*: Advances healthcare with precise, data-driven diagnostics.
 
-## 💡 Who Am I?
-I’m a **Data Science student** with a passion for **machine learning**, **deep learning**, and **MLOps**, skilled in tools like **TensorFlow**, **PyTorch**, **Docker**, and **Jenkins**. My journey includes internships where I built a **VS Code extension** for RGAA accessibility audits, a **Flutter and Node.js fitness tracking app**, a **YOLOv8-based fire detection system** for environmental monitoring, and **NewSIA**, an AI assistant for real-time news analysis and rumor detection. I thrive in agile environments, having worked in Scrum teams across multiple sprints, and I’m always eager to tackle innovative challenges in AI and beyond!
+## 💻 About Me
 
-## 🤝 Let’s Build the Future!
-Got a wild idea or want to collaborate? Drop me a line via GitHub Issues or star my repos to join the adventure. Let’s code, innovate, and make waves together!
+I’m a Data Science engineering student at **ESPRIT**, specializing in **Artificial Intelligence**. My expertise includes:
+
+- **Conversational AI & LLMs**: Designed AI assistants with **Hugging Face**, **SpaCy**, and **FastAPI**, incorporating **AI safety** (data masking, hallucination control).
+- **MLOps & Deployment**: Automated pipelines with **Docker**, **Jenkins**, and **MLflow** for scalable AI solutions.
+- **Technical Stack**: Proficient in **Python**, **TensorFlow**, **PyTorch**, **SQL**, **AWS**, and **GCP**.
+- **Professional Experience**: Interned at **Talan Tunisia**, developing an LLM-powered VS Code extension, and at **DRÄXLMAIER Group**, delivering actionable data insights. Thrived in **Agile Scrum** environments.
+
+I’m passionate about creating **responsible AI** that empowers users, from financial services to healthcare, and I’m excited to tackle challenges in conversational AI and compliance.
+
+## 🤝 Let’s Collaborate!
+
+Have an idea for an AI project or want to enhance conversational systems? Open an issue, star a repo, or reach out to collaborate. Let’s build something impactful!
+
+## 📬 Stay Connected
+
+- **Email**: [wiem.zakraoui@esprit.tn](mailto:wiem.zakraoui@esprit.tn)  
+- **LinkedIn**: [linkedin.com/in/wiem-zakraoui](https://www.linkedin.com/in/wiem-zakraoui-628041240)  
+- **GitHub**: [github.com/wiemtn](https://github.com/wiemtn)  
+
+*Last updated: November 2025*
 
 ---
 
-*Last updated: October 2025*  
-*Follow my GitHub for more game-changing projects!*
+⭐ *Star a repo to support my work and let’s create tech magic together!* ⭐
