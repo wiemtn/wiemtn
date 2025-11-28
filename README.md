@@ -12,11 +12,11 @@ Hello, innovators! I'm Wiem Zakraoui, a Data Science and AI enthusiast dedicated
   Developed a **VS Code extension** powered by an **LLM** to automate RGAA accessibility audits for web content, detecting **50+ anomalies** with advanced **prompt engineering**. Integrated via **FastAPI** and deployed in a **CI/CD pipeline** using **Docker**, **Jenkins**, and **Grafana** in an Agile Scrum environment.  
   *Why it matters*: Enhances digital accessibility with efficient, scalable AI automation.
 
-- **[Automated MLOps Pipeline for Model Deployment](#)**  
+- **[Automated MLOps Pipeline for Model Deployment](https://github.com/wiemtn/MLops-ChurnPredection)**  
   An end-to-end **MLOps** pipeline using **MLflow**, **Jenkins**, and **Docker** to automate NLP model training, versioning, and deployment. Reduced deployment time by **80%** with continuous monitoring via **Prometheus**.  
   *Why it matters*: Streamlines AI workflows for reliable, production-ready solutions.
 
-- **[Deep Learning for Brain MRI Classification](#)**  
+- **[Deep Learning for Brain MRI Classification](https://github.com/wiemtn/Deep-Learning-for-Brain-Tumor-Detection-in-MRI-Scans)**  
   A deep learning project using **ResNet50** to classify brain tumors from MRI scans, achieving **98.2% accuracy**. Built with **PyTorch** and integrated text-based reporting for medical insights.  
   *Why it matters*: Advances healthcare with precise, data-driven diagnostics.
 
